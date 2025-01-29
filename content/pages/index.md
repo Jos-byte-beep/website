@@ -32,11 +32,11 @@ sections:
 
   - type: GenericSection
     media:
-      - url: /images/afbeelding1.jpeg
+        url: /images/afbeelding1.jpeg
         altText: Image 1 description
         elementId: ''
         type: ImageBlock
-      - url: /images/vhe_logo_naast_elkaar.jpg
+        url: /images/vhe_logo_naast_elkaar.jpg
         altText: Image 2 description
         elementId: ''
         type: ImageBlock
