@@ -33,17 +33,21 @@ sections:
 
 #Afbeelding links, tekst rechts
   - type: GenericSection
-    media:
-      - url: /images/afbeelding1.jpeg
-        altText: Image 1 description
-        elementId: ''
-        type: ImageBlock
     title:
       text: "Week 0: The move to Luchthavenweg 10."
       color: text-dark
       type: TitleBlock
     text: >
       Welcome to the move to our new location at Luchthavenweg 10!
+    media:
+    - url: /images/afbeelding.jpeg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    - url: /images/afbeelding.jpeg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
     badge:
       label: 29th of January
       color: text-primary
