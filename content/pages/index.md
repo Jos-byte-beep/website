@@ -38,8 +38,12 @@ sections:
     text: >
       Welcome to the move to our new location at Luchthavenweg 10!
     media:
-      url: /images/afbeelding.jpeg
-      altText: Unblock your team boost your time to production preview
+    - url: /images/afbeelding1.jpeg
+      altText: Image 1 description
+      elementId: ''
+      type: ImageBlock
+    - url: /images/afbeelding1.jpeg
+      altText: Image 2 description
       elementId: ''
       type: ImageBlock
     badge:
