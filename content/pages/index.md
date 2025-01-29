@@ -31,21 +31,21 @@ sections:
           - pr-16
 
   - type: GenericSection
+    media:
+      - url: /images/afbeelding1.jpeg
+        altText: Image 1 description
+        elementId: ''
+        type: ImageBlock
+      - url: /images/vhe_logo_naast_elkaar.jpg
+        altText: Image 2 description
+        elementId: ''
+        type: ImageBlock
     title:
       text: "Week 0: The move to Luchthavenweg 10."
       color: text-dark
       type: TitleBlock
     text: >
       Welcome to the move to our new location at Luchthavenweg 10!
-    media:
-    - url: /images/afbeelding1.jpeg
-      altText: Image 1 description
-      elementId: ''
-      type: ImageBlock
-    - url: /images/afbeelding1.jpeg
-      altText: Image 2 description
-      elementId: ''
-      type: ImageBlock
     badge:
       label: 29th of January
       color: text-primary
@@ -61,6 +61,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+
 
 
 
