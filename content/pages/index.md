@@ -2,6 +2,7 @@
 title: Home
 slug: /
 sections:
+#Afbeelding rechts, tekst links
   - type: GenericSection
     title:
       text: "Week 0: The move to Luchthavenweg 10."
@@ -30,14 +31,11 @@ sections:
           - pb-16
           - pr-16
 
+#Afbeelding links, tekst rechts
   - type: GenericSection
     media:
-        url: /images/afbeelding1.jpeg
+      - url: /images/afbeelding1.jpeg
         altText: Image 1 description
-        elementId: ''
-        type: ImageBlock
-        url: /images/vhe_logo_naast_elkaar.jpg
-        altText: Image 2 description
         elementId: ''
         type: ImageBlock
     title:
@@ -55,19 +53,15 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: row-reverse
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
 
-
-
-
 seo:
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
