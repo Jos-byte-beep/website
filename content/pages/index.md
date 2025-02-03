@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 29th of January
+      label: 31th of January
       color: text-primary
       type: Badge
     elementId: ''
