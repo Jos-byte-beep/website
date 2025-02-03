@@ -40,7 +40,7 @@ sections:
     text: >
       Welcome to the move to our new location at Luchthavenweg 10!
     media:
-      url: /images/_DJI_0824.mp4
+      url: /images/afbeelding.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
