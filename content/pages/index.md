@@ -2,6 +2,10 @@
 title: Home
 slug: /
 sections:
+<a href="#regel12">Ga naar regel 12</a>
+
+<p id="regel12">Dit is regel 12 in de website.</p>
+
 #Afbeelding links, tekst rechts
   - type: GenericSection
     title:
