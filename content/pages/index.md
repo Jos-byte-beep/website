@@ -2,8 +2,6 @@
 title: Home
 slug: /
 sections:
-<a href="#regel10">Ga naar regel 10</a>
-<p id="regel10">Dit is regel 10 in de website.</p>
 #Afbeelding links, tekst rechts
   - type: GenericSection
     title:
