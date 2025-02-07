@@ -9,7 +9,7 @@ sections:
       color: text-dark
       type: TitleBlock
       id: "january"
-    title:
+    subtitle:
       text: "Week 1: Start demolition work."
       color: text-dark
       type: TitleBlock
