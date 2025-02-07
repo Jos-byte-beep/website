@@ -11,23 +11,18 @@
         },
         "type": "ImageBlock"
     },
-    "buttons": [
-        { 
-            "text": "Inloggen", 
-            "url": "/login", 
-            "styles": "btn btn-primary"
-        },
-        { 
-            "text": "Registreren", 
-            "url": "/register", 
-            "styles": "btn btn-success"
+
+    "secondaryLinks": [
+        {
+            "label": "January",
+            "url": "/#january",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
         }
-    ],
-    "navigation": [
-        { "text": "Home", "url": "/" },
-        { "text": "Over", "url": "/about" },
-        { "text": "Contact", "url": "/contact" }
-    ],
+    ]
+,
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
