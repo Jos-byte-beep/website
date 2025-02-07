@@ -4,15 +4,11 @@ slug: /
 sections:
 #Afbeelding links, tekst rechts
   - type: GenericSection
-    title: 
-      text: "January"
-      color: text-dark
-      type: TitleBlock
-      id: "january"
-    subtitle:
+    title:
       text: "Week 1: Start demolition work."
       color: text-dark
       type: TitleBlock
+      id: "january"
     text: >
       The start of demolition work at Luchthavenweg 10!
     media:
