@@ -11,7 +11,7 @@ sections:
     text: >
       The start of demolition work at Luchthavenweg 10!
     media:
-      url: /images/DJI_0788.mp4
+      url: https://streamable.com/c41ioo?src=player-page-share
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
