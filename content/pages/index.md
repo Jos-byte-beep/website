@@ -12,11 +12,10 @@ sections:
     text: >
       The start of demolition work at Luchthavenweg 10
     media:
-      content:
-        - url: /images/DJI_0811.jpg
-          altText: Unblock your team boost your time to production preview
-          elementId: ''
-          type: ImageBlock
+      url: /images/DJI_0811.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
     badge:
       label: 31th of January
       color: text-primary
