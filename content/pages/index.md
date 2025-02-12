@@ -10,7 +10,7 @@ sections:
       type: TitleBlock
       id: "january"
     text: >
-      The start of demolition work at Luchthavenweg 10!
+      The start of demolition work at Luchthavenweg 10
     media:
       content:
         - url: /images/DJI.mp4
