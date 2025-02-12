@@ -10,12 +10,12 @@ sections:
       type: TitleBlock
       id: "january"
     text: >
-      The start of demolition work at Luchthavenweg 10
+      The start of demolition work at Luchthavenweg 10!
     media:
-      url: /images/DJI_0811.jpg
+      url: /images/DJI.mp4
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      type: ImageBlock
+      type: VideoBlock
     badge:
       label: 31th of January
       color: text-primary
