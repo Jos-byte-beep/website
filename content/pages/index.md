@@ -8,19 +8,18 @@ sections:
       text: "Week 2: The move to Luchthavenweg 10."
       color: text-dark
       type: TitleBlock
-      id: "february"
     text: >
       The start of demolition work at Luchthavenweg 10!
     media:
       url: /images/DJI_0811.jpg
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: "february"
       type: ImageBlock
     badge:
       label: 3th of February
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: "february"
     colors: bg-light-fg-dark
     styles:
       self:
@@ -37,19 +36,18 @@ sections:
       text: "Week 1: Start demolition work."
       color: text-dark
       type: TitleBlock
-      id: "january"
     text: >
       The start of demolition work at Luchthavenweg 10!
     media:
       url: /images/DJI.mp4
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: "january"
       type: VideoBlock
     badge:
       label: 31th of January
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: "january"
     colors: bg-light-fg-dark
     styles:
       self:
