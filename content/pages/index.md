@@ -2,6 +2,35 @@
 title: Home
 slug: /
 sections:
+#Afbeelding rechts, tekst links
+  - type: GenericSection
+    title:
+      text: "Week 2: The move to Luchthavenweg 10."
+      color: text-dark
+      type: TitleBlock
+      id: "february"
+    text: >
+      The start of demolition work at Luchthavenweg 10!
+    media:
+      url: /images/DJI_0811.jpeg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: 3th of February
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 #Afbeelding links, tekst rechts
   - type: GenericSection
     title:
