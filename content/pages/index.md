@@ -40,6 +40,7 @@ sections:
         gap: 16px  # Optional: space between the images
       images:
         width: 48%  # Adjust size of the images (optional)
+        height: auto
 #Afbeelding links, tekst rechts
   - type: GenericSection
     title:
