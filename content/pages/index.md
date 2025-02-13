@@ -5,20 +5,16 @@ sections:
 #Afbeelding rechts, tekst links
   - type: GenericSection
     title:
-      text: "Week 2: Buidling up again Luchthavenweg 10."
+      text: "Week 2: Building up again Luchthavenweg 10."
       color: text-dark
       type: TitleBlock
     text: >
       The start of demolition work at Luchthavenweg 10!
     media:
-      - url: /images/DJI_0811.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: "february"
-        type: ImageBlock
-      - url: /images/DJI_0786.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: "february"
-        type: ImageBlock
+      url: /images/DJI_0811.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: "february"
+      type: ImageBlock
     badge:
       label: 3th of February
       color: text-primary
