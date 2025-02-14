@@ -11,7 +11,7 @@ sections:
     text: >
       Building up at Luchthavenweg 10!
     media:
-      url: /images/DJI_0811.jpg
+      url: /images/temp1.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
