@@ -11,14 +11,11 @@ sections:
     text: >
       Building up at Luchthavenweg 10!
     media:
-      - url: /images/temp1.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: "february_1"
-        type: ImageBlock
-      - url: /images/temp2.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: "february_1"
-        type: ImageBlock
+      - html: |
+          <img src="/images/temp1.jpg" alt="Unblock your team boost your time to production preview" style="max-width: 48%; height: auto; margin-right: 8px;">
+      - html: |
+          <img src="/images/temp2.jpg" alt="Another image alt text" style="max-width: 48%; height: auto;">
+      
     badge:
       label: 3th of February
       color: text-primary
@@ -38,11 +35,6 @@ sections:
         display: flex
         justifyContent: space-between
         width: 100%
-      media > .ImageBlock:
-        flex: 1
-        margin-right: 8px  # Optional: space between the images
-        max-width: 25%  # Limits the width to make sure images fit side by side
-        height: auto  # Ensures images maintain their aspect ratio
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
