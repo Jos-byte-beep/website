@@ -39,7 +39,7 @@ sections:
         justifyContent: space-between  # You can use 'space-between' or 'center' depending on your preference
         width: 100%  # Ensures the images take the full width of their container
         img:
-          width: 48%  # Adjusts the width of the images to fit side by side
+          width: 10%  # Adjusts the width of the images to fit side by side
           height: auto
       
 #Afbeelding links, tekst rechts
