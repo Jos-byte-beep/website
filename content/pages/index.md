@@ -37,7 +37,7 @@ sections:
       media:
         display: flex
         justifyContent: space-between  # You can use 'space-between' or 'center' depending on your preference
-        width: 100%  # Ensures the images take the full width of their container
+        width: 50%  # Ensures the images take the full width of their container
         img:
           width: 10%  # Adjusts the width of the images to fit side by side
           height: auto
