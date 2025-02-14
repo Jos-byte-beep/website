@@ -15,7 +15,6 @@ sections:
         altText: Unblock your team boost your time to production preview
         elementId: ''
         type: ImageBlock
-      
     badge:
       label: 3th of February
       color: text-primary
@@ -30,8 +29,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16
-      
+          - pr-16      
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
