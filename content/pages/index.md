@@ -12,9 +12,9 @@ sections:
       Building up at Luchthavenweg 10!
     media:
       - type: ImageBlock
-        content: "![Unblock your team, boost your time to production preview](/images/temp1.jpg)"
+        content: "![Unblock](/images/temp1.jpg)"
       - type: ImageBlock
-        content: "![Unblock your team, boost your time to production preview](/images/temp2.jpg)"
+        content: "![Unblock](/images/temp2.jpg)"
     badge:
       label: 3th of February
       color: text-primary
