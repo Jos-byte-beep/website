@@ -9,7 +9,7 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Building up at Luchthavenweg 10!
+      The immense space is a good start point!
     media:
       url: /images/DJI_0811.jpg
       altText: Unblock your team boost your time to production preview
@@ -38,7 +38,7 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      The start of demolition work at Luchthavenweg 10!
+      First step is demolition!
     media:
       url: /images/DJI.mp4
       altText: Unblock your team boost your time to production preview
