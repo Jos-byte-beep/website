@@ -41,6 +41,8 @@ sections:
       media > .ImageBlock:
         flex: 1
         margin-right: 8px  # Optional: space between the images
+        max-width: 48%  # Limits the width to make sure images fit side by side
+        height: auto  # Ensures images maintain their aspect ratio
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
