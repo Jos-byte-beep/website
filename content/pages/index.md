@@ -11,11 +11,10 @@ sections:
     text: >
       Building up at Luchthavenweg 10!
     media:
-      - html: |
-          <img src="/images/temp1.jpg" alt="Unblock your team boost your time to production preview" style="max-width: 48%; height: auto; margin-right: 8px;">
-      - html: |
-          <img src="/images/temp2.jpg" alt="Another image alt text" style="max-width: 48%; height: auto;">
-      
+      url: /images/DJI_0811.jpeg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
     badge:
       label: 3th of February
       color: text-primary
