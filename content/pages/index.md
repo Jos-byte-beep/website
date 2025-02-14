@@ -31,13 +31,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-      media:
-        display: flex
-        justifyContent: space-between  # You can use 'space-between' or 'center' depending on your preference
-        width: 50%  # Ensures the images take the full width of their container
-        img:
-          width: 10%  # Adjusts the width of the images to fit side by side
-          height: auto
+      
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
