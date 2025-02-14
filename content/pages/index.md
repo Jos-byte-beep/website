@@ -11,11 +11,10 @@ sections:
     text: >
       Building up at Luchthavenweg 10!
     media:
-      content:
-        url: /images/DJI_0811.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: ''
-        type: ImageBlock
+      url: /images/DJI_0811.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
     badge:
       label: 3th of February
       color: text-primary
