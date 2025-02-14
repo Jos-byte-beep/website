@@ -15,10 +15,7 @@ sections:
         altText: Unblock your team boost your time to production preview
         elementId: ''
         type: ImageBlock
-      - url: /images/temp2.jpg
-        altText: Unblock your team boost your time to production preview
-        elementId: ''
-        type: ImageBlock
+      
     badge:
       label: 3th of February
       color: text-primary
