@@ -12,6 +12,7 @@ sections:
       Building up at Luchthavenweg 10!
     media:
       url: /images/temp1.jpg
+      url: /images/temp2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
