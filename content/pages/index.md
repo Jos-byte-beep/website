@@ -11,10 +11,14 @@ sections:
     text: >
       Building up at Luchthavenweg 10!
     media:
-      url: /images/DJI_0811.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
+      - url: /images/temp1.jpg
+        altText: Unblock your team boost your time to production preview
+        elementId: ''
+        type: ImageBlock
+      - url: /images/temp2.jpg
+        altText: Unblock your team boost your time to production preview
+        elementId: ''
+        type: ImageBlock
     badge:
       label: 3th of February
       color: text-primary
@@ -30,6 +34,13 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      media:
+        display: flex
+        justifyContent: space-between  # You can use 'space-between' or 'center' depending on your preference
+        width: 100%  # Ensures the images take the full width of their container
+        img:
+          width: 48%  # Adjusts the width of the images to fit side by side
+          height: auto
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
