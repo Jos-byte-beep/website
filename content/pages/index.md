@@ -30,10 +30,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-      media:
-        display: flex
-        justifyContent: space-between
-        width: 100%
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
