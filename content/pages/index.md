@@ -40,7 +40,7 @@ sections:
     text: >
       First step is demolition!
     media:
-      url: /images/DJI.mp4
+      url: /images/DJI_0824.mp4
       altText: Unblock your team boost your time to production preview
       elementId: "january"
       type: VideoBlock
