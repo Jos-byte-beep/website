@@ -13,6 +13,10 @@ sections:
       <div style="display: flex; justify-content: space-between;">
         <img src="images/temp1.jpg" alt="First Image" style="width: 48%; height: auto;">
         <img src="images/temp2.jpg" alt="Second Image" style="width: 48%; height: auto;">
+        <video width="32%" controls>
+          <source src="images/DJI.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
     badge:
       label: 3th of February
