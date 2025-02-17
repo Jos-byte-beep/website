@@ -11,10 +11,9 @@ sections:
     text: >
       The immense space is a good start point!
     media:
-      - url: /images/temp1.jpg
-        altText: First Image Description
-      - url: /images/temp2.jpg
-        altText: Second Image Description
+      - content: |
+          <img src="/images/temp1.jpg" alt="First Image Description" style="width: 48%; height: auto; margin-right: 4%;"/>
+          <img src="/images/temp2.jpg" alt="Second Image Description" style="width: 48%; height: auto;"/>
     badge:
       label: 3th of February
       color: text-primary
@@ -30,9 +29,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16 
-      media:
-        width: 48%  # Adjust width for side-by-side layout, with some space between
-        height: auto     
+       
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
