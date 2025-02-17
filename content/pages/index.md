@@ -13,10 +13,8 @@ sections:
     media:
       - url: /images/temp1.jpg
         altText: First Image Description
-        type: Image
       - url: /images/temp2.jpg
         altText: Second Image Description
-        type: Image
     badge:
       label: 3th of February
       color: text-primary
