@@ -11,10 +11,14 @@ sections:
     text: >
       The immense space is a good start point!
     media:
-      url: /images/DJI_0811.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
+      - url: /images/temp1.jpg
+        altText: First Image Description
+        type: Image
+      - url: /images/temp2.jpg
+        altText: Second Image Description
+        type: Image
+    altText: Second Image Description
+    type: Image
     badge:
       label: 3th of February
       color: text-primary
@@ -29,7 +33,10 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16      
+          - pr-16 
+      media:
+        width: 48%  # Adjust width for side-by-side layout, with some space between
+        height: auto     
       
 #Afbeelding links, tekst rechts
   - type: GenericSection
