@@ -17,8 +17,6 @@ sections:
       - url: /images/temp2.jpg
         altText: Second Image Description
         type: Image
-    altText: Second Image Description
-    type: Image
     badge:
       label: 3th of February
       color: text-primary
