@@ -10,11 +10,10 @@ sections:
       type: TitleBlock
     text: >
       The immense space is a good start point
-    media:
-      url: /images/temp3.jpg
-      altText: Unblock your team boost your time to production preview!
-      elementId: ''
-      type: ImageBlock
+  <div style="display: flex; justify-content: space-between;">
+    <img src="images/temp1.jpg" alt="First Image" style="width: 48%; height: auto;">
+    <img src="images/temp2.jpg" alt="Second Image" style="width: 48%; height: auto;">
+    </div>
     badge:
       label: 3th of February
       color: text-primary
