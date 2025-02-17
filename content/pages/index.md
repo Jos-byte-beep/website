@@ -11,8 +11,8 @@ sections:
     text: >
       The immense space is a good start point
     media:
-      url: /images/temp1.jpeg
-      altText: Unblock your team boost your time to production preview
+      url: /images/temp1.jpg
+      altText: Unblock your team boost your time to production preview!
       elementId: ''
       type: ImageBlock
     badge:
