@@ -11,8 +11,8 @@ sections:
     text: >
       The immense space is a good start point
       <div style="display: flex; justify-content: space-between;">
-        <img src="images/temp1.jpg" alt="First Image" style="width: 50%; height: 100%;">
-        <img src="images/temp2.jpg" alt="Second Image" style="width: 50%; height: 100%;">
+        <img src="images/temp1.jpg" alt="First Image" style="width: 50%; height: auto;">
+        <img src="images/temp2.jpg" alt="Second Image" style="width: 50%; height: auto;">
       </div>
     badge:
       label: 3th of February
