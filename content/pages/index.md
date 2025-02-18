@@ -11,8 +11,8 @@ sections:
     text: >
       The immense space is a good start point
       <div style="display: flex; justify-content: space-between;">
-        <img src="images/temp1.jpg" alt="First Image" style="width: 30%; height: auto;">
-        <img src="images/temp2.jpg" alt="Second Image" style="width: 30%; height: auto;">
+        <img src="images/temp1.jpg" alt="First Image" style="width: 50%; height: 100%;">
+        <img src="images/temp2.jpg" alt="Second Image" style="width: 50%; height: 100%;">
       </div>
     badge:
       label: 3th of February
@@ -28,9 +28,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16 
-       
-      
+          - pr-16       
 #Afbeelding links, tekst rechts
   - type: GenericSection
     title:
@@ -59,7 +57,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-
 #Afbeelding rechts, tekst links
   - type: GenericSection
     title:
@@ -88,9 +85,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-
-
-
 seo:
   metaTitle: Home - Demo site
   socialImage: /images/main-hero.jpg
