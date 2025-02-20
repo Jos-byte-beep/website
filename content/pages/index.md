@@ -13,6 +13,7 @@ sections:
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 40px;">
         <img src="images/DJI_0786.jpg" alt="First Image" style="width: 50%; height: 300px; object-fit: cover;">
         <img src="images/DJI_0811.jpg" alt="Second Image" style="width: 50%; height: 300px; object-fit: cover;">
+        <img src="images/DJI_7979.jpg" alt="Second Image" style="width: 50%; height: 300px; object-fit: cover;">
       </div>
     badge:
       label: 3th of February
