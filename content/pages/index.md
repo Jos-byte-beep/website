@@ -5,7 +5,7 @@ sections:
 #Afbeelding rechts, tekst links
   - type: GenericSection
     title:
-      text: "Next phase: Building up again Luchthavenweg 10!"
+      text: "Next phase: Building up again Luchthavenweg 10"
       color: text-dark
       type: TitleBlock
     text: >
