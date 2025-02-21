@@ -5,7 +5,7 @@ sections:
 #Afbeelding rechts, tekst links
   - type: GenericSection
     title:
-      text: "Week 2: Building up again Luchthavenweg 10."
+      text: "Next phase: Building up again Luchthavenweg 10."
       color: text-dark
       type: TitleBlock
     text: >
@@ -16,7 +16,7 @@ sections:
         <img src="images/IMG_1897.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
-      label: 3th of February
+      label: 10th of February
       color: text-primary
       type: Badge
     elementId: "february"
