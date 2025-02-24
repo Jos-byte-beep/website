@@ -5,18 +5,18 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
-      text: "Next phase: Building up again Luchthavenweg 10"
+      text: "Break-even: All colleagues visit Luchthavenweg 10"
       color: text-dark
       type: TitleBlock
     text: >
       The immense space is a good start point!
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/20250220_160932.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
-        <img src="images/20250220_1618371.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/20250220_161837.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
         <img src="images/collage.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
-      label: 10th of February
+      label: 20th of February
       color: text-primary
       type: Badge
     elementId: "february"
@@ -47,7 +47,7 @@ sections:
       label: 10th of February
       color: text-primary
       type: Badge
-    elementId: "february"
+    elementId: ""
     colors: bg-light-fg-dark
     styles:
       self:
