@@ -9,7 +9,7 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      A celebration with a French fry cart!
+      A celebration with a fry cart!
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/20250220_160932.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
         <img src="images/20250220_161837.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
