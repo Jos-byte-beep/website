@@ -5,7 +5,7 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
-      text: "Break-even: All colleagues visit Luchthavenweg 10"
+      text: "Break-even: All colleagues visit Luchthavenweg 10!"
       color: text-dark
       type: TitleBlock
     text: >
