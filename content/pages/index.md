@@ -13,7 +13,7 @@ sections:
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/20250220_161238.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
         <img src="images/20250220_162034.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
-        <img src="images/20250220_161947.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/collage.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
       label: 20th of February
