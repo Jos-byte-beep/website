@@ -16,7 +16,7 @@ sections:
         <img src="images/IMG_2244.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
-      label: 20th of February
+      label: 13th of March
       color: text-primary
       type: Badge
     elementId: "march"
