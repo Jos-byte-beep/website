@@ -2,6 +2,34 @@
 title: Home
 slug: /
 sections:
+#Afbeelding rechts, tekst links
+  - type: GenericSection
+    title:
+      text: "The next step at Luchthavenweg 10!"
+      color: text-dark
+      type: TitleBlock
+    text: >
+      Contract with Cleanroom Combination Group!
+    media:
+      url: /images/CCG.jpeg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: 29th of January
+      color: text-primary
+      type: Badge
+    elementId: 'march'
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
