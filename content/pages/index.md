@@ -11,12 +11,12 @@ sections:
     text: >
       Contract with Cleanroom Combination Group!
     media:
-      url: /images/CCG.jpeg
+      url: /images/CCG.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: 29th of January
+      label: 14th of March
       color: text-primary
       type: Badge
     elementId: 'march'
@@ -44,7 +44,7 @@ sections:
         <img src="images/IMG_2244.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
-      label: 13th of March
+      label: 11th of March
       color: text-primary
       type: Badge
     elementId: "march"
