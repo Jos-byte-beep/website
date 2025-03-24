@@ -2,6 +2,34 @@
 title: Home
 slug: /
 sections:
+#Afbeelding onder, tekst boven
+  - type: GenericSection
+    title:
+      text: "Building up again at Luchthavenweg 10!"
+      color: text-dark
+      type: TitleBlock
+    text: >
+      Construction is still according to planning!
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
+        <img src="images/IMG_2514.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_2509.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_2513.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+      </div>
+    badge:
+      label: 20th of March
+      color: text-primary
+      type: Badge
+    elementId: "march"
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16       
 #Afbeelding rechts, tekst links
   - type: GenericSection
     title:
