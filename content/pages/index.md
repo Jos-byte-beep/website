@@ -2,6 +2,39 @@
 title: Home
 slug: /
 sections:
+#Afbeelding rechts, tekst links
+  - type: GenericSection
+    title:
+      text: "Next phase at Luchthavenweg 10."
+      color: text-dark
+      type: TitleBlock
+    text: >
+      Atrium at the newe location!
+    media:
+      url: /images/IMG-20250331-WA0001.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    media:
+      url: /images/IMG-20250331-WA0002.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: 1th of April
+      color: text-primary
+      type: Badge
+    elementId: 'april'
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
