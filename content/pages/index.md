@@ -9,10 +9,10 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Atrium at the new location!
+      Atrium at the new location (it's no april's fools day joke)!
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
-        <img src="images/IMG-20250331-WA0001.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
-        <img src="images/IMG-20250331-WA0002.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG-20250331-WA0001.jpg" alt="First Image" style="width: 50%; height: 300px; object-fit: cover;">
+        <img src="images/IMG-20250331-WA0002.jpg" alt="Second Image" style="width: 50%; height: 300px; object-fit: cover;">
       </div>
     badge:
       label: 1th of April
