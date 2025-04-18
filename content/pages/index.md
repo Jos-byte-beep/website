@@ -9,6 +9,34 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
+      It's beginning to look like a VHE site!
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
+        <img src="images/IMG_2829.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_2836.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_2840.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+      </div>
+    badge:
+      label: 14th of April
+      color: text-primary
+      type: Badge
+    elementId: "april"
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16       
+#Afbeelding onder, tekst boven
+  - type: GenericSection
+    title:
+      text: "Next phase at Luchthavenweg 10."
+      color: text-dark
+      type: TitleBlock
+    text: >
       Atrium at the new location (it's no april's fools day joke)!
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/IMG-20250331-WA0001.jpg" alt="First Image" style="width: 50%; height: 300px; object-fit: cover;">
