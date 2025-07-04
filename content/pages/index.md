@@ -5,7 +5,7 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
-      text: "The main contractor is finished."
+      text: "The main contractor has finished the work."
       color: text-dark
       type: TitleBlock
     text: >
