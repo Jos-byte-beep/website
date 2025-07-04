@@ -48,7 +48,7 @@ sections:
       label: 2th of June
       color: text-primary
       type: Badge
-    elementId: "juni"
+    elementId: "june"
     colors: bg-light-fg-dark
     styles:
       self:
