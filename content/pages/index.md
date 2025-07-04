@@ -9,7 +9,7 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Almost finished!
+      The subcontractors have started!
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/IMG_3874.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
         <img src="images/IMG_3883.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
