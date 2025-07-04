@@ -5,7 +5,7 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
-      text: "The work has been completed."
+      text: "The main contractor is finished."
       color: text-dark
       type: TitleBlock
     text: >
@@ -16,10 +16,10 @@ sections:
         <img src="images/IMG_3884.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
       </div>
     badge:
-      label: 4th of June
+      label: 4th of July
       color: text-primary
       type: Badge
-    elementId: "juli"
+    elementId: "july"
     colors: bg-light-fg-dark
     styles:
       self:
