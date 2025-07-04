@@ -5,6 +5,34 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
+      text: "The work has been completed."
+      color: text-dark
+      type: TitleBlock
+    text: >
+      Almost finished!
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
+        <img src="images/IMG_3874.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_3883.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/IMG_3884.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+      </div>
+    badge:
+      label: 4th of June
+      color: text-primary
+      type: Badge
+    elementId: "juli"
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16       
+#Afbeelding onder, tekst boven
+  - type: GenericSection
+    title:
       text: "The end is near."
       color: text-dark
       type: TitleBlock
