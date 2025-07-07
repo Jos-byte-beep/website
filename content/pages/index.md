@@ -5,6 +5,33 @@ sections:
 #Afbeelding onder, tekst boven
   - type: GenericSection
     title:
+      text: "The first floors have been coated!"
+      color: text-dark
+      type: TitleBlock
+    text: >
+      Tthe first parts of the floor in the production hall were provided with a nice coating!
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
+        <img src="images/Clipboard01.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/Clipboard02.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+      </div>
+    badge:
+      label: 7th of July
+      color: text-primary
+      type: Badge
+    elementId: "july"
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16       
+#Afbeelding onder, tekst boven
+  - type: GenericSection
+    title:
       text: "The main contractor has finished the work."
       color: text-dark
       type: TitleBlock
