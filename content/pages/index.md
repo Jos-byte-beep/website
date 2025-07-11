@@ -13,6 +13,7 @@ sections:
       <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 20px;">
         <img src="images/Clipboard01.jpg" alt="First Image" style="width: 30%; height: 300px; object-fit: cover;">
         <img src="images/Clipboard02.jpg" alt="Second Image" style="width: 30%; height: 300px; object-fit: cover;">
+        <img src="images/Foto 1.jpg" alt="Second Image" style="width: 100%; height: 300px; object-fit: cover;">
       </div>
     badge:
       label: 7th of July
